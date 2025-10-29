@@ -45,24 +45,24 @@ When I’m not exploring data, you’ll find me learning new analytical tools, m
 
 ### 🧩 Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-3B82F6?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Advanced-22C55E?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-06B6D4?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-06B6D4?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-Advanced-3776AB?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-06B6D4?style=flat&logo=tableau&logoColor=white">
 </p>
 
 ### 🐍 Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Intermediate-06B6D4?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-Beginner-94A3B8?style=flat&logo=r&logoColor=white">
 </p>
 
 ### 📊 Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-10B981?style=flat">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-06B6D4?style=flat">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-06B6D4?style=flat">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-818CF8?style=flat">
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-8B5CF6?style=flat">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-06B6D4?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-06B6D4?style=flat">
 </p>
 
 
