@@ -21,7 +21,7 @@ My work focuses on building interactive dashboards, automating manual reporting 
 
 When I’m not exploring data, you’ll find me learning new analytical tools, mentoring peers, or diving into creative projects that combine logic and storytelling.
 
-🎯 **Portfolio:** [bynada.github.io](https://bynada.github.io)
+## [🏆 Check Out My Full Portfolio Website](https://bynada.github.io/)
 
 ---
 
@@ -65,13 +65,6 @@ When I’m not exploring data, you’ll find me learning new analytical tools, m
   <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-8B5CF6?style=flat">
 </p>
 
----
-
-### ✨ Color Legend
-To keep badge colors consistent by level:
-- **Advanced** → `#22C55E` (green)  
-- **Intermediate** → `#3B82F6` or similar blue/purple range  
-- **Beginner** → `#94A3B8` (gray)
 
 ---
 
