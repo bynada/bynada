@@ -1,9 +1,10 @@
 ## Hi there, I'm Nada 👋
 
 <div align="center">
-  <!-- Typing SVG: customize text lines -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66BB6A&center=true&vCenter=true&width=520&lines=Data+Analyst+%7C+Transforming+Data+into+Meaningful+Insights;Passionate+about+Analytics%2C+Storytelling%2C+and+Impact" alt="Typing SVG" />
+  <!-- You can customize the typing text in the "lines=" section of the URL below -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66BB6A&center=true&vCenter=true&width=520&lines=Data+Analyst;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
 </div>
+
 
 <p align="center">
   <a href="http://www.linkedin.com/in/nadafarhani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
