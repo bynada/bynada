@@ -1,10 +1,8 @@
 ## Hi there, I'm Nada 👋
 
 <div align="center">
-  <!-- You can customize the typing text in the "lines=" section of the URL below -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66BB6A&center=true&vCenter=true&width=520&lines=Data+Analyst;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
 </div>
-
 
 <p align="center">
   <a href="http://www.linkedin.com/in/nadafarhani"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -13,31 +11,29 @@
 
 ---
 
-## 🚀 About Me 
-I’m a data analyst with a geophysics background who enjoys finding clarity in complexity.  
-I specialize in transforming raw data into stories that drive smarter decisions and reveal hidden opportunities.
+## 🚀 About Me
+I’m a data analyst with a geophysics background who likes making messy information make sense.  
+I enjoy digging into data, spotting patterns, and turning them into explanations people can actually use.
 
-My work focuses on building interactive dashboards, automating manual reporting workflows, and uncovering insights that help businesses and organizations make data-driven decisions.
+I’ve worked on analysis projects that explore operations, delivery performance, and sustainability, and I like presenting results in a way that tells a story — not just a report.
 
-When I’m not exploring data, you’ll find me learning new analytical tools, mentoring peers, or diving into creative projects that combine logic and storytelling.
+When I’m not working on data, I’m usually learning something new, documenting projects, or building small creative things that mix logic and storytelling.
 
-## [🏆 Check Out My Full Portfolio Website](https://bynada.github.io/)
-
----
-
-## 🔭 What I'm Currently Working On 
-
-- **Late Shipment Analysis (RevoU Project):** Identifying drivers behind delayed deliveries using Power BI & SQL.  
-- **Data Storytelling Portfolio:** Designing a clean, interactive portfolio website to showcase analytics projects.  
-- **Automation:** Experimenting with Python scripts for data cleaning and dashboard refresh scheduling.
+## [🏆 Check Out My Portfolio](https://bynada.github.io/)
 
 ---
 
-## 🌱 Currently Learning 
+## 🔭 What I'm Currently Working On
+- Exploring new project and how to present it clearly
+- Organizing analytics projects so they’re easier to read on GitHub
+- Connecting geoscience topics with data storytelling 
 
-- Power BI DAX for advanced business intelligence metrics  
-- Python automation for report generation  
-- Dashboard UX design & storytelling best practices  
+---
+
+## 🌱 Currently Learning
+- Better project structure for data/analytics repos
+- Dashboard storytelling and report writing
+- Ways to bring geoscience + data together
 
 ---
 
@@ -64,7 +60,6 @@ When I’m not exploring data, you’ll find me learning new analytical tools, m
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-06B6D4?style=flat">
   <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-06B6D4?style=flat">
 </p>
-
 
 ---
 
